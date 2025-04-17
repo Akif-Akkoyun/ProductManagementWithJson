@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akifa\\Masaüstü\\productManagement\\App\\App.ProductManagement\\App.ProductManagement.csproj",
+      "projectUniqueName": "C:\\Users\\akifa\\Masaüstü\\All-Projects\\ProductManagementWithJson\\productManagement\\App\\App.ProductManagement\\App.ProductManagement.csproj",
       "projectName": "App.ProductManagement",
-      "projectPath": "C:\\Users\\akifa\\Masaüstü\\productManagement\\App\\App.ProductManagement\\App.ProductManagement.csproj",
+      "projectPath": "C:\\Users\\akifa\\Masaüstü\\All-Projects\\ProductManagementWithJson\\productManagement\\App\\App.ProductManagement\\App.ProductManagement.csproj",
       "packagesPath": "C:\\Users\\akifa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akifa\\Masaüstü\\productManagement\\App\\App.ProductManagement\\obj\\",
+      "outputPath": "C:\\Users\\akifa\\Masaüstü\\All-Projects\\ProductManagementWithJson\\productManagement\\App\\App.ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
