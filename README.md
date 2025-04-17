@@ -47,11 +47,3 @@ DELETE /api/data/{id} → Deletes data by ID
 
 🌱 Ideal for MVPs (Minimum Viable Products) and rapid prototyping
 
-👨‍💻 Developer
-Name: [Your Full Name]
-GitHub: your-github-username
-Email: [your-email@example.com]
-LinkedIn: [Your LinkedIn Profile URL (optional)]
-
-Thank you for checking out this project!
-Contributions, feedback, and suggestions are always welcome.
