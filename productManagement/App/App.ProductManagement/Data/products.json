@@ -59323,9 +59323,9 @@
   },
   {
     "Id": 9888,
-    "Name": "Product 9888",
-    "Price": 45,
-    "Category": "Category 9888."
+    "Name": "Bu de\u011Fi\u015Fti",
+    "Price": 0,
+    "Category": "string"
   },
   {
     "Id": 9889,
