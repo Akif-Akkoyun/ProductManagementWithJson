@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "App.ProductManagement.Controllers.ProdcutsController",
+    "Method": "Add",
+    "RelativePath": "create-product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "App.ProductManagement.Entities.ProductEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.ProductManagement.Controllers.ProdcutsController",
+    "Method": "SeedProduct",
+    "RelativePath": "data-seed",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.ProductManagement.Controllers.ProdcutsController",
+    "Method": "Get",
+    "RelativePath": "get-product-by/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.ProductManagement.Controllers.ProdcutsController",
+    "Method": "GetAll",
+    "RelativePath": "product-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.ProductManagement.Controllers.ProdcutsController",
+    "Method": "Delete",
+    "RelativePath": "remove-product-by/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.ProductManagement.Controllers.ProdcutsController",
+    "Method": "Update",
+    "RelativePath": "update-product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "product",
+        "Type": "App.ProductManagement.Entities.ProductEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
