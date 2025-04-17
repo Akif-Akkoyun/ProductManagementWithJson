@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5TRQHQF5z7kU53shQSr20mvxIR2fJ0YJXHu2Ovb2tX0=",
+  "Source": "App.ProductManagement",
+  "BasePath": "_content/App.ProductManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
